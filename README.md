@@ -1,2 +1,5 @@
 # Dog-Breed-Identification-Model
-Dog Breed Identification Model using Tensor flow to determine the breed of a dog in an image
+This is a  multi-class image classification model using Transfer Learning and TensorFlow 2.0 to Classify Different Dog Breeds
+
+
+Data - from the Kaggle dog breed Identification competition
